@@ -1,0 +1,17 @@
+{
+  "Nav": {
+    "shop": "المتجر"
+  },
+  "Home": {
+    "title": "وصل حديثًا",
+    "subtitle": "توصيل مجاني للطلبات فوق {amount}"
+  },
+  "Product": {
+    "addToCart": "أضف إلى السلة",
+    "inStock": "{count, plural, =0 {نفدت الكمية} one {بقيت قطعة واحدة} other {# قطعة متوفرة}}",
+    "rating": "تقييم {rating} من {count, plural, zero {لا أحد} one {عميل واحد} two {عميلين} few {# عملاء} many {# عميلًا} other {# عميل}}"
+  },
+  "Footer": {
+    "terms": "بإتمام الطلب أنت توافق على <link>الشروط</link>."
+  }
+}

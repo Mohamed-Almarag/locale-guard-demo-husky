@@ -1,0 +1,17 @@
+{
+  "Nav": {
+    "shop": "Shop"
+  },
+  "Home": {
+    "title": "New arrivals",
+    "subtitle": "Free delivery on orders over {amount}"
+  },
+  "Product": {
+    "addToCart": "Add to cart",
+    "inStock": "{count, plural, =0 {Out of stock} one {Only one left} other {# in stock}}",
+    "rating": "Rated {rating} by {count, plural, one {# customer} other {# customers}}"
+  },
+  "Footer": {
+    "terms": "By ordering you agree to our <link>terms</link>."
+  }
+}

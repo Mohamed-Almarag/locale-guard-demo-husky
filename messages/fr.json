@@ -1,0 +1,17 @@
+{
+  "Nav": {
+    "shop": "Boutique"
+  },
+  "Home": {
+    "title": "Nouveautés",
+    "subtitle": "Livraison gratuite dès {amount} d'achat"
+  },
+  "Product": {
+    "addToCart": "Ajouter au panier",
+    "inStock": "{count, plural, =0 {Rupture de stock} one {Plus qu'un exemplaire} other {# en stock}}",
+    "rating": "Noté {rating} par {count, plural, one {# client} other {# clients}}"
+  },
+  "Footer": {
+    "terms": "En commandant, vous acceptez nos <link>conditions</link>."
+  }
+}
