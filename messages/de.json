@@ -10,5 +10,12 @@
     "addToCart": "In den Warenkorb",
     "inStock": "{count, plural, =0 {Ausverkauft} one {Nur noch eins da} other {# auf Lager}}",
     "rating": "Mit {rating} bewertet von {count, plural, one {# Kunden} other {# Kunden}}"
+  },
+  "Order": {
+    "title": "Bestellung {number}",
+    "status": "{status, select, shipped {Unterwegs} delivered {Zugestellt} other {Wird vorbereitet}}",
+    "eta": "Kommt am {date}",
+    "parcels": "{count, plural, one {In # Paket versendet} other {In # Paketen versendet}}",
+    "help": "Ein Problem mit dieser Bestellung? <link>Schreib uns</link>"
   }
 }

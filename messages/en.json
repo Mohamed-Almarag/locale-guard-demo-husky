@@ -13,5 +13,12 @@
   },
   "Footer": {
     "terms": "By ordering you agree to our <link>terms</link>."
+  },
+  "Order": {
+    "title": "Order {number}",
+    "status": "{status, select, shipped {On its way} delivered {Delivered} other {Being prepared}}",
+    "eta": "Arrives on {date}",
+    "parcels": "{count, plural, one {Shipped in # parcel} other {Shipped in # parcels}}",
+    "help": "A problem with this order? <link>Contact us</link>"
   }
 }

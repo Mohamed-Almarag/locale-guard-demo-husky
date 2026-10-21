@@ -13,5 +13,12 @@
   },
   "Footer": {
     "terms": "En commandant, vous acceptez nos <link>conditions</link>."
+  },
+  "Order": {
+    "title": "Commande {number}",
+    "status": "{status, select, shipped {En route} delivered {Livrée} other {En préparation}}",
+    "eta": "Arrive le {date}",
+    "parcels": "{count, plural, one {Expédiée en # colis} other {Expédiée en # colis}}",
+    "help": "Un problème avec cette commande ? <link>Contactez-nous</link>"
   }
 }
