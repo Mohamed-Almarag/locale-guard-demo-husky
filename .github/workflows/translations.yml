@@ -1,0 +1,14 @@
+name: Translations
+
+on: pull_request
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  locale-guard:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: Mohamed-Almarag/locale-guard@v1

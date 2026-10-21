@@ -1,0 +1,2 @@
+files: messages/{locale}.json
+format: next-intl
