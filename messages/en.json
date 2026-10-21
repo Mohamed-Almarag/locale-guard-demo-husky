@@ -1,6 +1,7 @@
 {
   "Nav": {
-    "shop": "Shop"
+    "shop": "Shop",
+    "cart": "Cart"
   },
   "Home": {
     "title": "New arrivals",
@@ -13,5 +14,14 @@
   },
   "Footer": {
     "terms": "By ordering you agree to our <link>terms</link>."
+  },
+  "Cart": {
+    "title": "Your cart",
+    "items": "{count, plural, one {# item} other {# items}}",
+    "total": "Total: {total}",
+    "shipping": "{method, select, express {Express delivery, arrives tomorrow} other {Standard delivery, arrives in 3 days}}",
+    "promo": "Enter a code to save <b>{percent}%</b>",
+    "checkout": "Go to checkout",
+    "empty": "Your cart is empty. <link>Keep shopping</link>"
   }
 }

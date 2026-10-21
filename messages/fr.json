@@ -1,6 +1,7 @@
 {
   "Nav": {
-    "shop": "Boutique"
+    "shop": "Boutique",
+    "cart": "Panier"
   },
   "Home": {
     "title": "Nouveautés",
@@ -13,5 +14,14 @@
   },
   "Footer": {
     "terms": "En commandant, vous acceptez nos <link>conditions</link>."
+  },
+  "Cart": {
+    "title": "Votre panier",
+    "items": "{count, plural, one {# article}}",
+    "total": "Total : {total}",
+    "shipping": "{method, select, express {Livraison express, demain} other {Livraison standard, sous 3 jours}}",
+    "promo": "Saisissez un code pour économiser <b>{percent} %</b>",
+    "checkout": "Go to checkout",
+    "empty": "Votre panier est vide. <link>Continuer vos achats</link>"
   }
 }
