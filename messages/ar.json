@@ -13,5 +13,12 @@
   },
   "Footer": {
     "terms": "بإتمام الطلب أنت توافق على <link>الشروط</link>."
+  },
+  "Order": {
+    "title": "الطلب {number}",
+    "status": "{status, select, shipped {في الطريق} delivered {تم التوصيل} other {قيد التجهيز}}",
+    "eta": "يصل يوم {date}",
+    "parcels": "{count, plural, zero {لم يُشحن بعد} one {شُحن في طرد واحد} two {شُحن في طردين} few {شُحن في # طرود} many {شُحن في # طردًا} other {شُحن في # طرد}}",
+    "help": "مشكلة في هذا الطلب؟ <link>تواصل معنا</link>"
   }
 }
