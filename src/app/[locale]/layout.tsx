@@ -28,6 +28,7 @@ export default async function LocaleLayout({
         <NextIntlClientProvider>
           <header>
             <Link href="/">{t('shop')}</Link>
+            <Link href="/cart">{t('cart')}</Link>
             <nav>
               {routing.locales.map((code) => (
                 <Link key={code} href="/" locale={code}>

@@ -1,6 +1,7 @@
 {
   "Nav": {
-    "shop": "المتجر"
+    "shop": "المتجر",
+    "cart": "السلة"
   },
   "Home": {
     "title": "وصل حديثًا",
@@ -13,5 +14,13 @@
   },
   "Footer": {
     "terms": "بإتمام الطلب أنت توافق على <link>الشروط</link>."
+  },
+  "Cart": {
+    "title": "سلة التسوق",
+    "items": "{count, plural, one {منتج واحد} other {# منتجات}}",
+    "total": "الإجمالي: {total}",
+    "shipping": "{methd, select, express {توصيل سريع، يصل غدًا} other {توصيل عادي، يصل خلال 3 أيام}}",
+    "promo": "أدخل كودًا لتوفير {percent}%",
+    "empty": "سلتك فارغة. <link>تابع التسوق</link>"
   }
 }
